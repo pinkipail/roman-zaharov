@@ -1,0 +1,40 @@
+.footer-wrap {
+    background: url(/image/bg/footer.jpg) no-repeat center;
+    background-size: cover;
+    width: 100%;
+
+    padding-top: 5rem;
+}
+
+.footer {
+    margin-top: 10rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.footer-block__link {
+    opacity: 0.8;
+    color: #ffffff;
+    font-size: 2rem;
+    font-weight: 400;
+
+    margin: 3rem 0;
+}
+
+.footer-block__link:hover {
+    text-decoration: underline;
+}
+
+.footer-underline {
+
+    width: 100%;
+    background-color: #3459fd;
+
+    margin-top: 10rem;
+}
+
+.footer-underline .main-info {
+    padding: 1.5rem 0;
+}

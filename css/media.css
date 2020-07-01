@@ -1,0 +1,30 @@
+/* media */
+
+.media-wrap {
+    background: url(/image/bg/media.jpg) no-repeat center;
+    background-size: cover;
+
+    padding: 10rem 0;
+}
+
+.media-photo-block {
+    margin-top: 7rem;
+    
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.media-photo__item {
+    width: 29.75rem;
+    margin: 0.5rem auto;
+}
+
+.media-photo__item img {
+    width: 100%;
+
+    height: auto;
+}
+
+
+/* /media */
