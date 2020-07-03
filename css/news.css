@@ -1,7 +1,7 @@
 /*  promo */
 
 .news-wrap {
-    background: url(/image/bg/news.jpg) no-repeat center;
+    background: url(../image/bg/news.jpg) no-repeat center;
     background-size: cover;
 
 }
@@ -185,7 +185,7 @@
     width: 10px;
     height: 10px;
     content: '';
-    background: url(/image/icon/more.svg) no-repeat ;
+    background: url(../image/icon/more.svg) no-repeat ;
 }
 
 .news-block-item-underline {

@@ -1,7 +1,7 @@
 /* media */
 
 .media-wrap {
-    background: url(/image/bg/media.jpg) no-repeat center;
+    background: url(../image/bg/media.jpg) no-repeat center;
     background-size: cover;
 
     padding: 10rem 0;

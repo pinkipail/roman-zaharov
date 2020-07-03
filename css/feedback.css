@@ -1,7 +1,7 @@
 /* feedback-header */
 
 .feedback-wrap {
-    background: url(/image/bg/feedback.jpg) no-repeat center;
+    background: url(../image/bg/feedback.jpg) no-repeat center;
     background-size: cover;
     width: 100%;
 

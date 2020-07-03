@@ -4,7 +4,7 @@
     height: 100vh;
     max-height: 100vh;
 
-    background: url(/image/bg/1.jpg) no-repeat center ;
+    background: url(../image/bg/1.jpg) no-repeat center ;
     background-size: cover;
 
     font-family: 'Montserrat', sans-serif;
@@ -178,7 +178,7 @@
 .main-filter {
     position: absolute;
     display: block;
-    background: url(/image/bg/main_filter.png) no-repeat center ;
+    background: url(../image/bg/main_filter.png) no-repeat center ;
     background-size: cover;
     top: 0;
     right: 0;
@@ -192,7 +192,7 @@
 .main-filter_circle {
     position: absolute;
     display: block;
-    background: url(/image/bg/main-circle.png) no-repeat center ;
+    background: url(../image/bg/main-circle.png) no-repeat center ;
     background-size: 150%;
     top: 15%;
     right: 0;
