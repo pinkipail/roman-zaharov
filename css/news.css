@@ -26,6 +26,10 @@
     box-shadow:         0px 5px 11px 0px rgba(50, 50, 50, 0.55);
 }
 
+.contacts-page .promo {
+    transform: translateY(10%);
+}
+
 .promo-text {
     text-align: center;
     padding: 30px;
@@ -85,6 +89,10 @@
 
 /* news */
 
+.news-page .news {
+    margin-top: 5rem;
+}
+
 .news {
     margin-bottom: 10rem;
 }
@@ -137,7 +145,10 @@
 
 .news-block-item {
     width: 30%;
-    margin: 0 auto;
+    margin: 0 auto 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .news-block-item__img {

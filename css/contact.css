@@ -14,6 +14,10 @@
     align-items: center;
 }
 
+.contacts-page .contact {
+    padding-bottom: 10rem;
+}
+
 .contact-info {
     text-align: center;
     flex: 1 0 auto;
