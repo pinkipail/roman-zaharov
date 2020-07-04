@@ -96,6 +96,7 @@
 .news-title {
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .news-title h3 {
@@ -135,7 +136,8 @@
 }
 
 .news-block-item {
-    width: 38rem;
+    width: 30%;
+    margin: 0 auto;
 }
 
 .news-block-item__img {
@@ -163,7 +165,7 @@
     margin-top: 1.6rem;
 
     color: #939393;
-    font-size: 15px;
+    font-size: 1.5rem;
     font-weight: 400;
 }
 

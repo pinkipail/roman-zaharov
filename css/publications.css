@@ -20,20 +20,21 @@
     transform: translateY(10rem);
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 
 
 }
 
 .publications-block__item {
-    flex: 0 1 30%;
+    width: 30%;
     border-radius: 15px;
     background-color: #ffffff;
 
     padding: 5rem 0;
 
-
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
 }

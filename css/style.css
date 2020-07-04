@@ -36,13 +36,13 @@ html {
 
 .title-block__text {
     color: #2455e3;
-    font-size: 26px;
+    font-size: 2.6rem;
     font-weight: 600;
 }
 
 .title-block__spacer {
     width: 4px;
-    height: 38px;
+    height: 3.8rem;
     margin: 0 18px;
     box-shadow: 16px 10px 9px rgba(26, 37, 77, 0.03), 0 0 84px rgba(255, 255, 255, 0.32);
     border-radius: 1px;
@@ -51,14 +51,14 @@ html {
 }
 
 .title-block__btn {
-    width: 221px;
-    height: 38px;
+    width: 22rem;
+    height: 4rem;
     border: none;
-    border-radius: 17px;
+    border-radius: 1.7rem;
     background-color: #408cea;
 
     color: #ffffff;
-    font-size: 15px;
+    font-size: 1.5rem;
     font-weight: 400;
 }
 
@@ -91,13 +91,3 @@ html {
     border: 2px solid #fff;
 }
 
-
-@media (max-width: 1400px) {
-    html {
-        font-size: 7px;
-    }
-
-    .wrap {
-        padding: 0 20px;
-    }
-}

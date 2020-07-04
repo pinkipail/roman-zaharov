@@ -5,13 +5,14 @@
     background-size: cover;
     width: 100%;
 
-    padding: 15rem 0;
+    padding: 10rem 0;
 }
 
 .feedback {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 .feedback-header {
@@ -20,19 +21,19 @@
 
 .feedback-header__title {
     color: #fefeff;
-    font-size: 33px;
+    font-size: 3.3rem;
     font-weight: 500;
 }
 
 .feedback-header__subtitle {
     color: #fefeff;
-    font-size: 20px;
+    font-size: 2rem;
     font-weight: 300;
     margin-top: 15px;
 }
 
 .feedback-header__btn {
-    margin-top: 60px;
+    margin: 5rem 0;
     width: 27rem;
     height: 4.5rem;
     border: none;
@@ -52,18 +53,18 @@
 }
 
 .feedback-form input {
-    height: 50px;
+    height: 5rem;
     border: none;
     border-radius: 5px;
     margin: 6px;
     padding-left: 15px;
     color: #8081ab;
-    font-size: 17px;
+    font-size: 1.7rem;
     font-weight: 300;
 }
 
 .feedback-form textarea {
-    height: 110px;
+    height: 11rem;
     border: none;
     border-radius: 5px;
     margin: 6px;
@@ -71,7 +72,7 @@
     padding-left: 15px;
     font-family: 'Montserrat', sans-serif;
     color: #8081ab;
-    font-size: 17px;
+    font-size: 1.7rem;
     font-weight: 400;
 }
 /* /feedback-header */

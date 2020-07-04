@@ -1,0 +1,63 @@
+
+@media (max-width: 1400px) {
+    html {
+        font-size: 7px;
+    }
+
+    .wrap {
+        padding: 0 20px;
+    }
+}
+
+@media (max-width: 768px) {
+    .news-block-item {
+        width: 45%;
+        margin: 2rem auto;
+    }
+}
+
+
+@media (max-width: 767px) {
+    html {
+        font-size: 5px;
+    }
+    .main-about {
+        flex-wrap: wrap;
+    }
+
+    .links {
+        justify-content: center;
+    }
+
+    .publications-block__item {
+        width: 90%;
+        margin: 2rem auto;
+    }
+
+    .publications-block__item-img {
+        width: 20rem;
+        height: 20rem;
+    }
+
+}
+@media (max-width: 576px) {
+    .main-search {
+        width: 100%;
+    }
+    .main-search input{
+        width: 100%;
+    }
+
+    .main-nav__item {
+        font-size: 2.5rem;
+    }
+
+    .promo-map {
+        display: none;
+    }
+    .news-block-item {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+}
